@@ -1,0 +1,22 @@
+.row-two {
+    display: grid;
+    height: 100%;
+    grid-template-columns: 1fr 5fr 2fr;
+    background-color: #0c17b3;
+}
+
+.table-one {
+    Width: 100%;
+    border: 1px solid #CCC
+}
+
+
+.table-one > tbody > tr > td {
+    border: 1px solid #CCC;
+    min-height: 50px;
+    padding: .5em;
+}
+
+.add-button {
+    font-size: bold;
+}
