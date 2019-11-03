@@ -7,11 +7,11 @@
 body {
     width: 100vw;
     height: 100vh;
-    background-color: rgb(161, 3, 11);
+    background-color: rgb(126, 197, 245);
 }
 
 
 .container-padding {
     margin: 12px;
-    border: 1px dashed #f4f80c;
+    border: 1px dashed #078303;
 }
